@@ -1,1 +1,9 @@
-exercise1-djeanabriones
+# Week 1: Git Exercise
+
+**Name:** Djeana Carel M. Briones <br/>
+**Section:** U-4L <br/>
+**Student number:** 2023 - 13796 <br/>
+
+## My Expectations for this Course
+
+I expect that this course will be challenging as I'm about to encounter new topics. However, I'm also excited to know about new ideas. I know that there would be a hefty workload and a project that needs a lot of time at the end, but I'm looking forward to these challenges.
